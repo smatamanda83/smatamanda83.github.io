@@ -1,5 +1,5 @@
 title: Sailas H. Matamanda
-logo: "shmfacepic.jpg" # your photo (or logo) here
+logo: <img src="pdf/shmfacepic.jpg?raw=true"/> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
    
 Data Scientist /  Machine Learning Engineer
