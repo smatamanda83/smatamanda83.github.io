@@ -2,12 +2,12 @@ title: Sailas H. Matamanda
 logo: "images/shmfacepic.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>Data Scientist /  Machine Learning Engineer<br>
+  Data Scientist /  Machine Learning Engineer
   Second description 
-  <br>
-  Senior Data Scientist/Machine Learning Engineer with 8+ years experience using a variety of data analysis methods, building and implementing models, using/creating machine learning algorithms and creating/running simulations to drive  successful business solutions using data-based insights. 
   
-  <br>
+Senior Data Scientist/Machine Learning Engineer with 8+ years experience using a variety of data analysis methods, building and implementing models, using/creating machine learning algorithms and creating/running simulations to drive  successful business solutions using data-based insights. 
+  
+  
   <a href="https://www.linkedin.com/in/sailas-matamanda-227b69225/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
